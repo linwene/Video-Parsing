@@ -3,7 +3,7 @@
 
 本网站只是单纯提供前端页面，解析接口采用 “http://jx.hezeshi.net/?url=”<br>
 
-预览地址：[http://rel.linwene.top/spa/](http://rel.linwene.top/spa/)<br>
+预览地址：[https://linwene.github.io/Video-Parsing/](https://linwene.github.io/Video-Parsing/)<br>
 
 网站截图：
 -
